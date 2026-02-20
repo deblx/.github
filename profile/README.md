@@ -34,8 +34,8 @@ Questions? Issues? Ideas? Come hang:
 
 New plugins, updates, behind-the-scenes — follow Deblx:
 
-- 🐦 **X / Twitter** — [@deblxofficial](https://x.com/deblxofficial)
-- 🛒 **Fab Store** — [All plugins in one place](https://fab.com/sellers/deblx)
+- 🐦 **X** — [@deblxofficial](https://x.com/deblxofficial)
+- 🛒 **Fab** — [All plugins in one place](https://fab.com/sellers/deblx)
 
 ---
 
