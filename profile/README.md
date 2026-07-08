@@ -1,5 +1,5 @@
 ## Hi 👋 This is Deblx on GitHub
-# About Deblx
+### About Deblx
 
 Deblx is an independent game development studio based in Germany — passionate about creating games, plugins and creative assets for the Unreal Engine ecosystem.
 
